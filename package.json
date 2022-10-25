@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-socket-client-rasukarusan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Rasukarusan",
+  "license": "ISC"
+}
