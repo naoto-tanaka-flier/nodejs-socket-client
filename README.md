@@ -2,9 +2,12 @@
 
 ## CDN
 
+jsDelivrで配信
 ```
-<script src="https://cdn.jsdelivr.net/npm/nodejs-socket-client@1.0.0/index.js" integrity="sha256-W3axhsOWw8Ypmtb2GVoazW4AZaAZKbg98mLBjF/roBM=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/nodejs-socket-client@1.0.1/index.js" integrity="sha256-h17+PbIX5sv+N7DmVZSHpZy/s0BoUWnUCi5jeo3OUTo=" crossorigin="anonymous"></script>
 ```
+
+https://www.npmjs.com/package/nodejs-socket-client
 
 ## Description
 
